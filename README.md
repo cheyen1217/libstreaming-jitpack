@@ -1,6 +1,6 @@
 # libstreaming-jitpack
 
-參考github上的做法 : https://github.com/ar-android/libstreaming/tree/master/libstreaming
+參考github上的做法 : https://github.com/ar-android/libstreaming
 
 大神把這個libstreaming 弄到jitpack  所以只要多加兩行就能用原本libstreaming的library
 
